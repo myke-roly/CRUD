@@ -1,0 +1,17 @@
+{
+  "name": "rest-api-node",
+  "version": "1.0.0",
+  "description": "Create api-rest",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "myke_roly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.3.0",
+    "underscore": "^1.9.1"
+  }
+}
